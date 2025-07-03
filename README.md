@@ -79,7 +79,7 @@ Found file: "OUTPUT~1.JPG" (Long name: "output.jpg") in Path: "E:\ASSETS\OUTPUT~
 ```
 ShortToLongFilename/
 ├── main.cpp              # Main source code
-├── README.md             # This file
+├── README.md             # 
 └── assets/               # Test files for demonstration
 ```
 
