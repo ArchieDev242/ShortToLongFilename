@@ -63,7 +63,6 @@ Scanning FAT32 drive: E:\
 
 Found list of files in path: "E:\ASSETS"
 Found file: "CHECK_~1.JPG" (Long name: "check_ifexist.jpg") in Path: "E:\ASSETS\CHECK_~1.JPG"
-Found file: "OUTPUT~1.JPG" (Long name: "output.jpg") in Path: "E:\ASSETS\OUTPUT~1.JPG"
 ```
 
 ## How It Works
